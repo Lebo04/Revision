@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    width: 500px;
+    height: 600px;
+    background-color: crimson;
+    margin: auto;
+}
